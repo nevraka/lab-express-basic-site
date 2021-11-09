@@ -1,0 +1,11 @@
+body {
+  background-color: #abdbe3;
+}
+
+.banner {
+  background-image: url('../public/photos/banner.jpg');
+}
+.navbar {
+  padding-left: 40px;
+  padding-bottom: 40px;
+}
